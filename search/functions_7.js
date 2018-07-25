@@ -1,0 +1,6 @@
+var searchData=
+[
+  ['setupclass',['setUpClass',['../classunit__tests_1_1test__firma_1_1_test_upload_sincrono.html#a663e08db2678c0facb8f4a2526e25a1b',1,'unit_tests.test_firma.TestUploadSincrono.setUpClass()'],['../classunit__tests_1_1test__firma_1_1_test_stato_documento.html#a6cbe932c20cca641bb95d83e4e98619e',1,'unit_tests.test_firma.TestStatoDocumento.setUpClass()'],['../classunit__tests_1_1test__firma_1_1_test_richiesta_firma_asincrona.html#adddd32a03b2ea41e1c5acfcfdcfe59f4',1,'unit_tests.test_firma.TestRichiestaFirmaAsincrona.setUpClass()'],['../classunit__tests_1_1test__firma_1_1_test_firma_documento.html#ae6491b2a389da0d2321ca3b556678a2e',1,'unit_tests.test_firma.TestFirmaDocumento.setUpClass()'],['../classunit__tests_1_1test__firma_1_1_test_download_document.html#a84cafd7d21aa4067bd47b64d1301915e',1,'unit_tests.test_firma.TestDownloadDocument.setUpClass()'],['../classunit__tests_1_1test__firma_1_1_test_download_document_b64.html#a2e4ec017975a3831c3d87e40facc6a8a',1,'unit_tests.test_firma.TestDownloadDocumentB64.setUpClass()']]],
+  ['start_5ffirma',['start_firma',['../namespacefirma__agyo.html#a39be759ecb3864d03d166f5fd1dfd75a',1,'firma_agyo']]],
+  ['stato_5fdoc',['stato_doc',['../namespacefirma__agyo.html#a9d7e4bacf48e608c9ad9fddb1c09fb4c',1,'firma_agyo']]]
+];

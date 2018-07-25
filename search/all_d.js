@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['sender_5fid',['sender_id',['../classfirma__agyo_1_1cbl__agyo__adapter.html#acac1bb0b93777f3ab90e3e7d31efa775',1,'firma_agyo::cbl_agyo_adapter']]],
+  ['setupclass',['setUpClass',['../classunit__tests_1_1test__firma_1_1_test_upload_sincrono.html#a663e08db2678c0facb8f4a2526e25a1b',1,'unit_tests.test_firma.TestUploadSincrono.setUpClass()'],['../classunit__tests_1_1test__firma_1_1_test_stato_documento.html#a6cbe932c20cca641bb95d83e4e98619e',1,'unit_tests.test_firma.TestStatoDocumento.setUpClass()'],['../classunit__tests_1_1test__firma_1_1_test_richiesta_firma_asincrona.html#adddd32a03b2ea41e1c5acfcfdcfe59f4',1,'unit_tests.test_firma.TestRichiestaFirmaAsincrona.setUpClass()'],['../classunit__tests_1_1test__firma_1_1_test_firma_documento.html#ae6491b2a389da0d2321ca3b556678a2e',1,'unit_tests.test_firma.TestFirmaDocumento.setUpClass()'],['../classunit__tests_1_1test__firma_1_1_test_download_document.html#a84cafd7d21aa4067bd47b64d1301915e',1,'unit_tests.test_firma.TestDownloadDocument.setUpClass()'],['../classunit__tests_1_1test__firma_1_1_test_download_document_b64.html#a2e4ec017975a3831c3d87e40facc6a8a',1,'unit_tests.test_firma.TestDownloadDocumentB64.setUpClass()']]],
+  ['shortdescription',['shortDescription',['../classfirma__agyo_1_1_signer_row00.html#a4a889011dccf4336d560e1e06df5f970',1,'firma_agyo::SignerRow00']]],
+  ['signature_5ftype_5f00',['SIGNATURE_TYPE_00',['../classfirma__agyo_1_1cbl__agyo__adapter.html#aa8ea313e767b7dacb09bdcd52c0fe566',1,'firma_agyo::cbl_agyo_adapter']]],
+  ['signature_5ftype_5f01',['SIGNATURE_TYPE_01',['../classfirma__agyo_1_1cbl__agyo__adapter.html#a6a559a2273349cb632017b15de55f523',1,'firma_agyo::cbl_agyo_adapter']]],
+  ['signature_5ftype_5f02',['SIGNATURE_TYPE_02',['../classfirma__agyo_1_1cbl__agyo__adapter.html#a4d82c6036f6ad7465186f0f6d85d4c1d',1,'firma_agyo::cbl_agyo_adapter']]],
+  ['signature_5ftype_5f03',['SIGNATURE_TYPE_03',['../classfirma__agyo_1_1cbl__agyo__adapter.html#a494e2a2fa6c667b20168bcf74a522c2b',1,'firma_agyo::cbl_agyo_adapter']]],
+  ['signature_5ftype_5f04',['SIGNATURE_TYPE_04',['../classfirma__agyo_1_1cbl__agyo__adapter.html#a3e47e1316f2e0af4d5172d26bca055db',1,'firma_agyo::cbl_agyo_adapter']]],
+  ['signature_5ftype_5f05',['SIGNATURE_TYPE_05',['../classfirma__agyo_1_1cbl__agyo__adapter.html#a5e059df1cb44a3c540a4f4c621f27613',1,'firma_agyo::cbl_agyo_adapter']]],
+  ['signaturedata_5fdict_5ftemplate',['SIGNATUREDATA_DICT_TEMPLATE',['../classfirma__agyo_1_1cbl__agyo__adapter.html#a88c0c19eada80f5a0fc358a62ec07f2f',1,'firma_agyo::cbl_agyo_adapter']]],
+  ['signer',['SIGNER',['../classfirma__agyo_1_1cbl__agyo__adapter.html#a51bf48019fd41c1380d0a77eaa8b85f7',1,'firma_agyo::cbl_agyo_adapter']]],
+  ['signer_5fdict_5ftemplate',['SIGNER_DICT_TEMPLATE',['../classfirma__agyo_1_1cbl__agyo__adapter.html#aa804fc564de766a6fa4938f99c21ce89',1,'firma_agyo::cbl_agyo_adapter']]],
+  ['signerbaserow',['SignerBaseRow',['../classfirma__agyo_1_1_signer_base_row.html',1,'firma_agyo']]],
+  ['signerrow00',['SignerRow00',['../classfirma__agyo_1_1_signer_row00.html',1,'firma_agyo']]],
+  ['signerrow01',['SignerRow01',['../classfirma__agyo_1_1_signer_row01.html',1,'firma_agyo']]],
+  ['signers',['signers',['../classfirma__agyo_1_1cbl__agyo__adapter__uploadsync.html#a009be8e04d1e0cce2a2fa6d124ae9c62',1,'firma_agyo::cbl_agyo_adapter_uploadsync']]],
+  ['single_5fsigner_5fdict_5ftemplate',['SINGLE_SIGNER_DICT_TEMPLATE',['../classfirma__agyo_1_1cbl__agyo__adapter.html#ad844cd429c70080e64b19245e5f3c403',1,'firma_agyo::cbl_agyo_adapter']]],
+  ['start_5ffirma',['start_firma',['../namespacefirma__agyo.html#a39be759ecb3864d03d166f5fd1dfd75a',1,'firma_agyo']]],
+  ['stato_5fdoc',['stato_doc',['../namespacefirma__agyo.html#a9d7e4bacf48e608c9ad9fddb1c09fb4c',1,'firma_agyo']]],
+  ['status_5falla_5ffirma',['STATUS_ALLA_FIRMA',['../classfirma__agyo_1_1cbl__agyo__adapter.html#a84a7e9f5f7aa885bcc725b942a4d52db',1,'firma_agyo::cbl_agyo_adapter']]],
+  ['status_5fcaricato',['STATUS_CARICATO',['../classfirma__agyo_1_1cbl__agyo__adapter.html#a6eab406d38e7647da6647d86ad7232cd',1,'firma_agyo::cbl_agyo_adapter']]],
+  ['status_5felaborazione',['STATUS_ELABORAZIONE',['../classfirma__agyo_1_1cbl__agyo__adapter.html#a3cc9ba63e291e34b0e425f311c585067',1,'firma_agyo::cbl_agyo_adapter']]],
+  ['status_5ffirmato',['STATUS_FIRMATO',['../classfirma__agyo_1_1cbl__agyo__adapter.html#a049440c1d487f80de5380555beb1b28a',1,'firma_agyo::cbl_agyo_adapter']]],
+  ['statushistory_5fdict_5ftemplate',['STATUSHISTORY_DICT_TEMPLATE',['../classfirma__agyo_1_1cbl__agyo__adapter.html#a4c2b45e58e2b8b97a5151a2704d8e9ad',1,'firma_agyo::cbl_agyo_adapter']]]
+];

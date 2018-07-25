@@ -1,0 +1,4 @@
+var searchData=
+[
+  ['adapt',['adapt',['../classfirma__agyo_1_1cbl__agyo__adapter.html#a3e5b828f93da9d61ad25ea68b02a0adb',1,'firma_agyo.cbl_agyo_adapter.adapt()'],['../classfirma__agyo_1_1cbl__agyo__adapter__firmadoc.html#a852aad5c98f94e532de451383baaa9b2',1,'firma_agyo.cbl_agyo_adapter_firmadoc.adapt()'],['../classfirma__agyo_1_1cbl__agyo__adapter__statodoc.html#aee9813db2829d03cde83124c16c1bbdf',1,'firma_agyo.cbl_agyo_adapter_statodoc.adapt()'],['../classfirma__agyo_1_1cbl__agyo__adapter__download_doc.html#a8de2202a22236a0f4e2b5adf07ad6014',1,'firma_agyo.cbl_agyo_adapter_downloadDoc.adapt()'],['../classfirma__agyo_1_1cbl__agyo__adapter__uploadsync.html#a9777a00d33cec102662127daaf745a77',1,'firma_agyo.cbl_agyo_adapter_uploadsync.adapt()'],['../classfirma__agyo_1_1cbl__agyo__adapter__isalive.html#aee561b1c0d375b2592f146073e9c0100',1,'firma_agyo.cbl_agyo_adapter_isalive.adapt()']]]
+];

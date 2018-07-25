@@ -1,0 +1,26 @@
+var firma__agyo_8py =
+[
+    [ "BaseGuidaRow", "classfirma__agyo_1_1_base_guida_row.html", "classfirma__agyo_1_1_base_guida_row" ],
+    [ "SignerBaseRow", "classfirma__agyo_1_1_signer_base_row.html", "classfirma__agyo_1_1_signer_base_row" ],
+    [ "SignerRow01", "classfirma__agyo_1_1_signer_row01.html", "classfirma__agyo_1_1_signer_row01" ],
+    [ "SignerRow00", "classfirma__agyo_1_1_signer_row00.html", "classfirma__agyo_1_1_signer_row00" ],
+    [ "DocumentBaseRow", "classfirma__agyo_1_1_document_base_row.html", "classfirma__agyo_1_1_document_base_row" ],
+    [ "DocumentRow00", "classfirma__agyo_1_1_document_row00.html", "classfirma__agyo_1_1_document_row00" ],
+    [ "DocumentRow02", "classfirma__agyo_1_1_document_row02.html", "classfirma__agyo_1_1_document_row02" ],
+    [ "DocumentRow03", "classfirma__agyo_1_1_document_row03.html", "classfirma__agyo_1_1_document_row03" ],
+    [ "BSSJob", "classfirma__agyo_1_1_b_s_s_job.html", "classfirma__agyo_1_1_b_s_s_job" ],
+    [ "cbl_agyo_adapter", "classfirma__agyo_1_1cbl__agyo__adapter.html", "classfirma__agyo_1_1cbl__agyo__adapter" ],
+    [ "cbl_agyo_adapter_firmadoc", "classfirma__agyo_1_1cbl__agyo__adapter__firmadoc.html", "classfirma__agyo_1_1cbl__agyo__adapter__firmadoc" ],
+    [ "cbl_agyo_adapter_statodoc", "classfirma__agyo_1_1cbl__agyo__adapter__statodoc.html", "classfirma__agyo_1_1cbl__agyo__adapter__statodoc" ],
+    [ "cbl_agyo_adapter_downloadDoc", "classfirma__agyo_1_1cbl__agyo__adapter__download_doc.html", "classfirma__agyo_1_1cbl__agyo__adapter__download_doc" ],
+    [ "cbl_agyo_adapter_uploadsync", "classfirma__agyo_1_1cbl__agyo__adapter__uploadsync.html", "classfirma__agyo_1_1cbl__agyo__adapter__uploadsync" ],
+    [ "cbl_agyo_adapter_downloadDocB64", "classfirma__agyo_1_1cbl__agyo__adapter__download_doc_b64.html", "classfirma__agyo_1_1cbl__agyo__adapter__download_doc_b64" ],
+    [ "cbl_agyo_adapter_isalive", "classfirma__agyo_1_1cbl__agyo__adapter__isalive.html", "classfirma__agyo_1_1cbl__agyo__adapter__isalive" ],
+    [ "download_doc", "firma__agyo_8py.html#a174cf3d56a02876c325ac61d0f6e25a8", null ],
+    [ "download_docB64", "firma__agyo_8py.html#a16829b300f8586dfdf2468f39e455a90", null ],
+    [ "firma_doc", "firma__agyo_8py.html#a64eff637c410415c6e679abdf85809a8", null ],
+    [ "isalive", "firma__agyo_8py.html#a167ef320ea10893ba796a3b57ea1f8f5", null ],
+    [ "start_firma", "firma__agyo_8py.html#a39be759ecb3864d03d166f5fd1dfd75a", null ],
+    [ "stato_doc", "firma__agyo_8py.html#a9d7e4bacf48e608c9ad9fddb1c09fb4c", null ],
+    [ "upload_sync", "firma__agyo_8py.html#a70e6903425a6b04f39228795a72dc4d9", null ]
+];
